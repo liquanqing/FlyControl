@@ -1,0 +1,13 @@
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=Barometer|SchDesignator=Barometer|FileName=MS5611.SCHDOC|SymbolType=Normal|RawFileName=MS5611.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=EEPROM|SchDesignator=EEPROM|FileName=EEPROM.SCHDOC|SymbolType=Normal|RawFileName=EEPROM.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=FlyControl_PWM|SchDesignator=FlyControl_PWM|FileName=STM32_PWM.SCHDOC|SymbolType=Normal|RawFileName=STM32_PWM.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=IMU|SchDesignator=IMU|FileName=MPU9250.SchDoc|SymbolType=Normal|RawFileName=MPU9250.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=LED_Statues|SchDesignator=LED_Statues|FileName=LED.SCHDOC|SymbolType=Normal|RawFileName=LED.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=STM32F407.SCHDOC|SymbolType=Normal|RawFileName=STM32F407.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=RT9193.SCHDOC|SymbolType=Normal|RawFileName=RT9193.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=RF_Connet|SchDesignator=RF_Connet|FileName=nRF24L01_Connet.SCHDOC|SymbolType=Normal|RawFileName=nRF24L01_Connet.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=Serial1 Communication|SchDesignator=Serial1 Communication|FileName=USART1.SchDoc|SymbolType=Normal|RawFileName=USART1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=Serial2 Communication|SchDesignator=Serial2 Communication|FileName=USART2.SCHDOC|SymbolType=Normal|RawFileName=USART2.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=SWD|SchDesignator=SWD|FileName=STM32_SWD.SCHDOC|SymbolType=Normal|RawFileName=STM32_SWD.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=USB|SchDesignator=USB|FileName=STM32_USB.SCHDOC|SymbolType=Normal|RawFileName=STM32_USB.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=MAIN.SchDoc
